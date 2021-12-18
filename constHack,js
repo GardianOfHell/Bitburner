@@ -3,7 +3,6 @@ export async function main(ns) {
 
 	//ns.disableLog("sleep");
     while (true) {
-		await ns.sleep(30000)
 	
 		var nextNode = "";
 		var result = [];
@@ -60,5 +59,6 @@ export async function main(ns) {
 				}
 			}
 		}
+		await ns.sleep(30000)
 	}
 }
