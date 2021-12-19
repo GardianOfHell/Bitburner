@@ -1,6 +1,6 @@
 # Bitburner
 Bitburner is a cyberpunk hacking-themed incremental game.  The game can be
-played [here](https://danielyxie.github.io/bitburner).
+played [here](https://danielyxie.github.io/bitburner) or on Steam.
 
 # Documentation
 The game's official documentation can be found [here](http://bitburner.readthedocs.io/en/latest/index.html). Please note that
